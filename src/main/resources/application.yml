@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: candy
+netty:
+  default:
+    allocator:
+      max-order: 3
